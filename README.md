@@ -1,4 +1,4 @@
-# The Data Analyst Career Guide for Career Pivoters
+# Pick Your Goal, Build Your Skills: The Data Analyst Career Guide for Career Pivoters
 
 ## Overview
 This project explores which skills, industries, and factors provide the best opportunities for aspiring data analysts—focusing on entry-level accessibility and salary potential.
