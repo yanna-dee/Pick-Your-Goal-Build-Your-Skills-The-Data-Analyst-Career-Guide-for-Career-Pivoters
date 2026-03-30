@@ -17,7 +17,7 @@ Many aspiring data analyst career pivoters struggle to identify which skills the
 
 ### Seniority Pay Gap
 <img width="1278" height="684" alt="download (2)" src="https://github.com/user-attachments/assets/4c77fb59-417a-47ef-8ff4-2046a25ef85c" />
-- Real Estate industry exhibits the largest seniority pay gap, salaries increasing by an average of 67.5% from junior to senior roles
+- Real Estate industry exhibits the largest seniority pay gap, salaries increasing by an average of 67.5% from junior to senior roles. (seniority pay gap shows which industries have the best salary growth potential over time)
 
 ### Job Demand
 <img width="1184" height="684" alt="download (3)" src="https://github.com/user-attachments/assets/7057faef-b717-47fd-88be-a32a2c89ce5b" />
