@@ -11,23 +11,31 @@ Many aspiring data analyst career pivoters struggle to identify which skills the
 - Identify most valuable skills for entry-level data analysts
 
 ## Sample Visualizations and Insights 
+### Top Skills
 <img width="1384" height="584" alt="download (1)" src="https://github.com/user-attachments/assets/3533d04d-1570-45ba-b214-5c5046d9a645" />
+- The most in demand skills for data analysts are: SQL, Excel, Statistics, Python, Tableau, and R, collectively representing roughly 80% of all required skills
 
-### The most in demand skills for data analysts are: SQL, Excel, Statistics, Python, Tableau, and R, collectively representing roughly 80% of all required skills
-
-
+### Seniority Pay Gap
 <img width="1278" height="684" alt="download (2)" src="https://github.com/user-attachments/assets/4c77fb59-417a-47ef-8ff4-2046a25ef85c" />
+- Real Estate industry exhibits the largest seniority pay gap, salaries increasing by an average of 67.5% from junior to senior roles
 
-### Real Estate industry exhibits the largest seniority pay gap, salaries increasing by an average of 67.5% from junior to senior roles
-
+### Job Demand
 <img width="1184" height="684" alt="download (3)" src="https://github.com/user-attachments/assets/7057faef-b717-47fd-88be-a32a2c89ce5b" />
+- IT Services industry represents the largest share of job openings, accounting for 18.83% of postings
 
-### IT Services industry represents the largest share of job openings, accounting for 18.83% of postings
+## Methodology
+### Data Preparation
+- Processed raw Glassdoor data
+- Standardized salary estimates
+- Handled missing company ratings
+
+### Data Visualization
+- Built clear, business-focused charts to highlight trends
+- Focused on interpretable insights, not just visuals
 
 ## Tools and Dataset Description
 - Data Source: 1,600+ Glassdoor Job Postings
-- Language: Python (Pandas, NumPy)
-- Data Visualization: Matplotlib and Seaborn
+- Language: Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Platform: Google Colab
 
 ## Collaborators
