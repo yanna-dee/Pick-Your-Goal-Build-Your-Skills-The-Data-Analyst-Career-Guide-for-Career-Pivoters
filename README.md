@@ -12,7 +12,7 @@ Using Python-based data analysis and visualization techniques, this project aims
 - Which industries offer the best entry points for new analysts?
 
 ## Problem
-Many aspiring data analyst career pivoters struggle to identify which skills they should learn and which industries provide the best starting opportunities. Our research bridges this gap by quantifying industry accessibility, salary growth potential, and job demand.
+Many aspiring data analyst or career pivoters struggle to identify which skills they should learn and which industries provide the best starting opportunities. Our research bridges this gap by quantifying industry accessibility, salary growth potential, and job demand.
 
 ## Sample Visualizations and Insights 
 ### Top Skills
