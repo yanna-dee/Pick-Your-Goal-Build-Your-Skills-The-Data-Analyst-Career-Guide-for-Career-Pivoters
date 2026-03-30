@@ -17,11 +17,11 @@ Many aspiring data analyst or career pivoters struggle to identify which skills 
 ## Sample Visualizations and Insights 
 ### Top Skills
 <img width="1384" height="584" alt="download (1)" src="https://github.com/user-attachments/assets/3533d04d-1570-45ba-b214-5c5046d9a645" />
-- The most in demand skills for data analysts are: SQL, Excel, Statistics, Python, Tableau, and R, collectively representing roughly 80% of all required skills
+- The most in demand skills for data analysts are: SQL, Excel, Statistics, Python, Tableau, and R, collectively representing roughly 80% of all required skills in all job postings.
 
 ### Seniority Pay Gap
 <img width="1278" height="684" alt="download (2)" src="https://github.com/user-attachments/assets/4c77fb59-417a-47ef-8ff4-2046a25ef85c" />
-- Real Estate industry exhibits the largest seniority pay gap, salaries increasing by an average of 67.5% from junior to senior roles. (seniority pay gap shows which industries have the best salary growth potential over time)
+- Real Estate industry exhibits the largest seniority pay gap, with salaries increasing by an average of 67.5% from junior to senior roles. (Seniority Pay Gap shows which industries have the best salary growth potential over time)
 
 ### Job Demand
 <img width="1184" height="684" alt="download (3)" src="https://github.com/user-attachments/assets/7057faef-b717-47fd-88be-a32a2c89ce5b" />
@@ -61,8 +61,8 @@ With skill vs. without skill
 - Google Colab
 
 ## Collaborators
-- Jimenez, Pocholo 
-- Canasa, Reignelle 
-- Pido, Jake 
-- Dee, Yanna 
+- Canasa, Reignelle
+- Dee, Yanna
+- Jimenez, Pocholo
+- Pido, Jake  
 - Riman, Keum 
