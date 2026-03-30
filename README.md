@@ -11,7 +11,7 @@ Many aspiring data analyst career pivoters struggle to identify which skills the
 • Identify most valuable skills for entry-level data analysts
 
 ## Sample Visualizations and Insights 
-• The most in demand skills for data analysts are: SQL, Excel, Statistics, Python, Tableau, and R, collectively representing roughly 80% of all required skills)
+• The most in demand skills for data analysts are: SQL, Excel, Statistics, Python, Tableau, and R, collectively representing roughly 80% of all required skills
 <img width="1384" height="584" alt="download (1)" src="https://github.com/user-attachments/assets/3533d04d-1570-45ba-b214-5c5046d9a645" />
 
 
